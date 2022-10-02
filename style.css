@@ -1,0 +1,33 @@
+
+body{
+    font-family:'Special Elite', cursive;
+    background:pink;
+}
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:blue;
+    text-align:center;
+    line-height:3;
+    text-shadow:5px 5px 5px navy;
+}
+.header_div{
+    background:cyan;
+    color:red;
+}
+.header_div p{
+    font-family:'Roboto', sans-serif;
+    color:gray;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
